@@ -2,8 +2,8 @@ const BLOG = {
   title: 'ohplz',
   author: 'ohplz',
   email: 'ohplz@qq.com',
-  link: 'https://nobelium.vercel.app',
-  description: 'ohplz的个人博客.',
+  link: 'https://nobelium-43dkxzuqm-ohplz.vercel.app/',
+  description: 'personal blog',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
